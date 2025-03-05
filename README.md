@@ -19,10 +19,10 @@ This project is an augmented reality (AR) implementation using computer vision t
 
 ### **Sample Images**
 #### 📷 AR Cube Example:
-![AR Cube Example](images/ARCubeProjectionImage.jpeg)
+![AR Cube Example](images/ARCubeProjectionImage.jpg)
 
 #### 📷 AR Car Projection:
-![AR Car Projection](images/ARCarProjectionImage.jpeg)
+![AR Car Projection](images/ARCarProjectionImage.jpg)
 
 ## Dependencies
 Make sure to install the necessary dependencies before running the scripts:
