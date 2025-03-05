@@ -1,0 +1,84 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.dylib
+*.pyd
+
+# Logs and cache files
+*.log
+*.out
+*.err
+logs/
+debug_render.png
+*.csv
+
+# Virtual environment
+venv/
+env/
+*.venv
+Pipfile
+Pipfile.lock
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Machine learning, AI, and vision datasets / results
+datasets/
+weights/
+checkpoints/
+*.h5
+*.ckpt
+*.onnx
+*.pb
+*.npy
+*.npz
+
+# Image and video processing
+*.jpeg
+*.jpg
+*.png
+*.bmp
+*.gif
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.webm
+*.flv
+*.m4v
+calib_dir/
+*.exr
+
+# Model and 3D object files
+*.obj
+*.mtl
+*.stl
+*.ply
+models/
+
+# IDE & editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# PyTest / Coverage
+.coverage
+htmlcov/
+pytest_cache/
+nosetests.xml
+coverage.xml
+
+
